@@ -97,6 +97,12 @@ def connecticut():
         
         list1 = string.split('\n')
         return list1
+def dc():
+    with open('dc.txt', 'r') as readin:
+        string = readin.read()
+        
+        list1 = string.split('\n')
+        return list1
 def delaware():
     with open('delaware.txt', 'r') as readin:
         string = readin.read()
@@ -355,12 +361,18 @@ def wyoming():
         
         list1 = string.split('\n')
         return list1
+def territories():
+    with open('territories.txt', 'r') as readin:
+        string = readin.read()
+        
+        list1 = string.split('\n')
+        return list1
 
 
 
 cites = []
 
-cites += alabama() + alaska() + arizona() + arkansas() + california() + colorado() + connecticut() + delaware() + florida() + georgia() + hawaii() + idaho() + illinois() + indiana() + iowa() + kansas() + kentucky() + louisiana() + maine() + maryland() + massachusetts() + michigan() + minnesota() + mississippi() + missouri() + montana() + nebraska() + nevada() + new_hampshire() + new_jersey() + new_mexico() + new_york() + north_carolina() + north_dakota() + ohio() + oklahoma() + oregon() + pennsylvania() + rhode_island() + south_carolina() + south_dakota() + tennessee() + texas() + utah() + vermont() + virginia() + washington() + west_virginia() + wisconsin() + wyoming()
+cites += alabama() + alaska() + arizona() + arkansas() + california() + colorado() + connecticut() + dc() + delaware() + florida() + georgia() + hawaii() + idaho() + illinois() + indiana() + iowa() + kansas() + kentucky() + louisiana() + maine() + maryland() + massachusetts() + michigan() + minnesota() + mississippi() + missouri() + montana() + nebraska() + nevada() + new_hampshire() + new_jersey() + new_mexico() + new_york() + north_carolina() + north_dakota() + ohio() + oklahoma() + oregon() + pennsylvania() + rhode_island() + south_carolina() + south_dakota() + tennessee() + texas() + utah() + vermont() + virginia() + washington() + west_virginia() + wisconsin() + wyoming() + territories()
 
 
 
