@@ -1,0 +1,8 @@
+flagstaff
+mohave
+phoenix
+prescott
+showlow
+sierravista
+tucson
+yuma

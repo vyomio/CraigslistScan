@@ -1,0 +1,11 @@
+ames
+cedarrapids
+desmoines
+dubuque
+fortdodge
+iowacity
+masoncity
+quadcities
+siouxcity
+ottumwa
+waterloo

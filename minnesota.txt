@@ -1,0 +1,8 @@
+bemidji
+brainerd
+duluth
+mankato
+minneapolis
+rmn
+marshall
+stcloud

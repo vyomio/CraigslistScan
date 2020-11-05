@@ -1,0 +1,10 @@
+bend
+corvallis
+eastoregon
+eugene
+klamath
+medford
+oregoncoast
+portland
+roseburg
+salem
