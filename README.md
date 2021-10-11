@@ -1,7 +1,6 @@
 # CraigslistScan
 python program that pulls things from craigslist and outputs it in different formats
 
-Ok so idk what is going on really lmao 
 
 
 The motive behind this project was to find the cheapest car of some sort of kind Im looking at. I am a car enthusiast and wanted to create some program that would scrape all the craigslist sites and output those listings somwhere.
@@ -22,4 +21,4 @@ VERSION 2.0: SecondClistProg.py ---> Same as VERSION 1.0 but all it does is outp
 
 VERSION 3.0: ThirdClistProg.py ----> Rather than manually typing all websites, you adujust all other parts of the program (model, year, etc...) but it searches all of USA and outputs to a CSV file
 
-VERSION 4.0: Havent done made it yet. But probably only going to ask for what states you want to add to the search. Other input requests may come later. As of right now the only thing the program will request is states to include. You still have to add all other filters in the code. like change model, year etc... 
+VERSION 4.0: Haven't completed it yet. But probably only going to ask for what states you want to add to the search. Other input requests may come later. As of right now the only user input the program will request is states to include. You still have to add/change all other filters in the code. like change model, year etc... 
